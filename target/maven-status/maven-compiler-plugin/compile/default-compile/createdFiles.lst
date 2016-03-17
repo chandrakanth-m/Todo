@@ -1,0 +1,7 @@
+com\todomanager\dao\TodoDaoImpl.class
+com\todomanager\service\TodoServiceImpl.class
+com\todomanager\dialect\SQLiteDialect.class
+com\todomanager\dao\TodoDao.class
+com\todomanager\service\TodoService.class
+com\todomanager\model\Todo.class
+com\todomanager\controller\HelloController.class
